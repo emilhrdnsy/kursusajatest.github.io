@@ -1,0 +1,93 @@
+/* navbar */
+.navbar {
+   background: #1a1a1a;
+   color: white;
+}.navbar-nav li {
+   float: right;
+}
+
+.navbar .btn {
+   margin: 0px 15px;
+   background-color: #1a1a1a;
+   border: 0px solid #1a1a1a;
+   color: white;
+}.navbar .btn:hover {
+   margin: 0px 15px;
+   background-color: #313131;
+   border: 0px solid #313131;
+   color: white;
+}
+
+.navbar p {
+   line-height: 10px;
+   margin: 10px 15px;
+}
+
+
+/* main */
+.row-user-top {
+   flex-direction: column;
+   padding: 50px 0px;
+   text-align: center;
+   border: 1px solid black;   
+}.row-user-top img {
+   width: 100px;
+   border: 2px solid black;
+   border-radius: 50%;
+   padding: 3px; 
+}
+
+.row-user-mid {
+   flex-direction: column;
+   padding: 0px 32px;
+   border: 1px solid black;
+
+}
+
+.row-user-bot {
+   flex-direction: column;
+   padding: 80px 32px 30px 32px;
+   border: 1px solid black;
+}
+
+
+
+
+.row-title {
+   text-align: center;
+   border: 1px solid black;
+   padding: 50px 0px;
+}
+
+.row-course1 {
+   
+   border: 1px solid black;
+   width: 100%;
+
+}
+
+.col-course1 {
+   width: 70%;
+   border: 1px solid black;
+   float: left;
+   padding: 10px 60px;
+}
+
+.target {
+   background-color: salmon;
+   width: 100%;
+}
+
+.col-img {
+   border: 1px solid black;
+   width: 30%;
+   height: 178px;
+   float: right;
+   padding: 0px 60px;
+}.col-img img {
+   width: 100%;
+   padding: 40px 0px;
+}
+
+
+
